@@ -72,7 +72,7 @@ else:
  
 ```
 # Output : 
-![277115901-7704f94b-130e-4532-ad93-905b5c855600](https://github.com/PriyankaAnnadurai/Poisson_distribution/assets/118351569/5c7c953e-7c7d-4441-a6c4-14c412a793c8)
+![280447781-c702cd34-e9b4-46de-9523-a5ee33bd577c](https://github.com/PriyankaAnnadurai/Poisson_distribution/assets/118351569/4d915f76-b588-451a-9f0e-9a98f675b4a8)
 
 
 
